@@ -3,4 +3,13 @@
 ---
 @charset "utf-8";
 
-
+.ame-logo {
+	text-align: left;
+	margin-top: 10px;
+}
+@media (min-width: 768px) {
+	.ame-logo {
+		text-align: right;
+		margin-top: 20px;
+	}
+}

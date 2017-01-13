@@ -10,7 +10,7 @@
 	<div class="col-sm-6">
 		<div class="ame-logo">
 			<a href="http://ame.asu.edu">
-				<img src="images/asu_hida.png" style="width: 300px;">
+				<img src="/images/asu_hida.png" style="width: 300px;">
 			</a>
 		</div>
 	</div>

@@ -1,17 +1,15 @@
 
-<div class="row">
+<div class="row" style="margin-top: 20px;">
 	<div class="col-sm-6">
-		<h1 style="margin-top: 10px; margin-bottom: 2px;">Loren Olson</h1>
-		<p>
-			Assistant Clinical Professor<br>
-			School of Arts, Media + Engineering
-		</p>
+		<a href="/">
+			<span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+		</a>
 	</div>
 	<div class="col-sm-6">
-		<div class="ame-logo">
-			<a href="http://ame.asu.edu">
-				<img src="/images/asu_hida.png" style="width: 300px;">
-			</a>
+		<div class="pull-right">
+			<span style="margin-left: 30px;"><a href="/blog">BLOG</a></span>
+			<span style="margin-left: 30px;"><a href="/research">RESEARCH</a></span>
+			<span style="margin-left: 30px;"><a href="/about">ABOUT</a></span>
 		</div>
 	</div>
 </div>

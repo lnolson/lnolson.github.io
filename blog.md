@@ -4,21 +4,23 @@ layout: default
 
 {% include header.md %}
 
-{% include section_head.md content="Blog" %}
 
-  
+<div style="margin-top: 128px;" markdown="1">  
 
-<ul class="post-list">
+<ul class="list-group">
 {% for post in site.posts %}
-  <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-    </h2>
-  </li>
+	<li class="list-group-item">
+    	<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;&nbsp;
+		<span class="lead"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></span>
+	</li>
 {% endfor %}
 </ul>
 
+</div>
+
+<div style="margin-top: 128px;" markdown="1"> 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
+
+
 

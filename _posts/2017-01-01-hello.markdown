@@ -1,0 +1,9 @@
+---
+layout: posts
+title:  "Hello"
+date:   2017-01-01 14:44:50 -0700
+categories: post
+---
+Hello.
+
+A witty comment for a first blog post goes here.

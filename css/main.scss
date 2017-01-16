@@ -3,16 +3,31 @@
 ---
 @charset "utf-8";
 
-.ame-logo {
-	text-align: left;
-	margin-top: 10px;
-}
-.panel-body p {
-	margin-top: 10px;
-}
+
+
 @media (min-width: 768px) {
-	.ame-logo {
-		text-align: right;
-		margin-top: 20px;
-	}
+	
+}
+
+body {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif!important;
+	border-top: solid 10px #FFC627;
+}
+
+h3 {
+	font-weight:800;
+}
+
+.lead-section {
+	margin-top: 128px;
+}
+.lead-bold {
+	font-weight:800;
+}
+.lead-section-last {
+	margin-bottom: 128px;
+}
+.superscript {
+	vertical-align: super;
+	font-size: 80%;
 }

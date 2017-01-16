@@ -5,17 +5,17 @@ permalink: /about/
 ---
 {% include header.md %}
 
-<div style="margin-top: 128px;" markdown="1" class="lead">
-### Loren Olson
+<div style="margin-top: 128px;" class="lead">
+	<img src="/images/lnolson.jpeg" alt="Loren Olson" class="img-thumbnail">
+	<h3>Loren Olson</h3>
 </div>
 
-Clinical Assistant Professor
-
-School of Arts, Media + Engineering
-
-Herberger Institute for Design and the Arts
-
-Arizona State University
+<p>
+Clinical Assistant Professor<br>
+School of Arts, Media + Engineering<br>
+Herberger Institute for Design and the Arts<br>
+Arizona State University<br>
+</p>
 
 
 I'm faculty at the School of Arts, Media + Engineering and I teach several classes in the Digital Culture Program. The best way to contact me is by email. loren.olson@asu.edu

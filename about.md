@@ -30,4 +30,6 @@ My research work is in the areas of mixed reality rehabilitation, interaction ar
 Yada, yada, yada.
 
 [Publications](/publications)
+
+[Other work outside ASU](/work)
 </div>

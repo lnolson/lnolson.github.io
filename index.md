@@ -6,7 +6,7 @@ layout: default
 <div markdown="1" class="lead lead-section">
 Hello, I'm <span class="lead-bold">Loren Olson</span>, a teacher, researcher, and software developer.
 
-I'm an Assistant Clinical Professor at the School of Arts, Media + Engineering,
+I'm a Clinical Associate Professor at the School of Arts, Media + Engineering,
 
 Herberger Institute for Design and the Arts, Arizona State University.
 </div>
@@ -49,7 +49,7 @@ This course explores native application development for iOS for use in the domai
 <div markdown="1" class="lead-section">
 ### AME 494/598 Animating Virtual Worlds
 
-This course explores procedural animation. How to create animation using code. Topics include randomness and Perlin noise, simple physics models for animation, particle systems, autonomous agents, steering behaviors and flocking. We use the [Processing](http://processing.org) programming language, an accessible yet powerful environment for learning how to program.
+This course investigates creating dynamic virtual environments. How can we create complex, engaging and aesthetic environments that are responsive? We explore creating animation using code. How to create movement using procedural and generative techniques. Subjects include random numbers, Perlin noise, particle systems, autonomous agents, steering behaviors, fractals, and L-systems. Prior programming experience is required. We use Xcode and Swift to create class projects.
 
 *I recommend that students have some programming experience before you take this class. If students haven't programmed before, consider taking Programming for Media Arts first.*
 </div>

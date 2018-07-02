@@ -11,7 +11,7 @@ permalink: /about/
 </div>
 
 <p>
-Clinical Assistant Professor<br>
+Clinical Associate Professor<br>
 School of Arts, Media + Engineering<br>
 Herberger Institute for Design and the Arts<br>
 Arizona State University<br>

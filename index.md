@@ -60,6 +60,8 @@ This course investigates creating dynamic virtual environments. How can we creat
 
 Senior capstone projects in digital culture are interdisciplinary team projects that offer experience in diverse collaborations for solving complex problems, a proficiency widely demanded by employers. Students integrate, extend and apply information, principles, theories and/or methods learned in previous courses while supervised by a capstone faculty.
 
+I taught this class from its inception until recently, when we changed its responsibility to a rotation amoung AME faculty. I'm not the instructor for next semester.
+
 See [capstone.ame.asu.edu](https://capstone.ame.asu.edu) - which is a rails app that I wrote.
 </div>
 

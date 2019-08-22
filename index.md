@@ -33,7 +33,7 @@ This course explores macOS native application development in the domain of Media
 
 *I recommend that students have some programming experience before you take this class. If you haven't programmed before, consider taking Programming for Media Arts first.*
 
-*[Fall 2019 430 Syllabus](https://critviz.s3.amazonaws.com/uploads/user_file/file/119400/Mac+Development+Syllabus+Fall+2019.pdf)*
+*[Fall 2019 AME 430 Syllabus](https://critviz.s3.amazonaws.com/uploads/user_file/file/119400/Mac+Development+Syllabus+Fall+2019.pdf)*
 </div>
 
 <div markdown="1" class="lead-section">
@@ -43,7 +43,7 @@ This course explores native application development for iOS for use in the domai
 
 *I recommend that students have some programming experience before you take this class. If students haven't programmed before, consider taking Programming for Media Arts first. In addition, it is best to take Mac Development for Media Arts before this course, in order to be familiar with Xcode and Swift.*
 
-*[Spring 2019 494 Syllabus](https://critviz.s3.amazonaws.com/uploads/user_file/file/104506/Mobile+Development+Syllabus+Spring+2019.pdf)*
+*[Spring 2019 AME 435 Syllabus](https://critviz.s3.amazonaws.com/uploads/user_file/file/104506/Mobile+Development+Syllabus+Spring+2019.pdf)*
 </div>
 
 

@@ -50,7 +50,7 @@ This course explores native application development for iOS for use in the domai
 <div markdown="1" class="lead-section">
 ### AME 494/598 Animating Virtual Worlds
 
-This course investigates creating dynamic virtual environments. How can we create complex, engaging and aesthetic environments that are responsive? We explore creating animation using code. How to create movement using procedural and generative techniques. Subjects include random numbers, Perlin noise, particle systems, autonomous agents, steering behaviors, fractals, and L-systems. Prior programming experience is required. We use Xcode and Swift to create class projects.
+This course investigates creating dynamic virtual environments. How can we create complex, engaging and aesthetic environments that are responsive? We explore creating animation using code. How to create movement using procedural and generative techniques. Subjects include random numbers, Perlin noise, particle systems, autonomous agents, steering behaviors, fractals, and L-systems. Prior programming experience is required. We use Unity and C# to create class projects.
 
 *I recommend that students have some programming experience before you take this class. If students haven't programmed before, consider taking Programming for Media Arts first.*
 </div>

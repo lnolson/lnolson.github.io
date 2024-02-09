@@ -38,3 +38,10 @@ Leaked benchmark [Apple Silicon M1 Chip in MacBook Air Outperforms High-End 16-I
 
 Will there be many vertical optimizations because the same company designs the whole stack? [Retain and release NSObject speed](https://twitter.com/Catfish_Man/status/1326238785181376512)
 
+
+### First look reviews
+
+Reviews of the new machines released on 11/17.
+
+MBP. Tech Crunch, Matthew Panzarino. [Yeah, Apple’s M1 MacBook Pro is powerful, but it’s the battery life that will blow you away](https://techcrunch.com/2020/11/17/yeah-apples-m1-macbook-pro-is-powerful-but-its-the-battery-life-that-will-blow-you-away/)
+

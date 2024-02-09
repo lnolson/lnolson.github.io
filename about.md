@@ -18,8 +18,9 @@ Arizona State University<br>
 </p>
 
 <a class="btn btn-primary" href="mailto:loren.olson@asu.edu" role="button">Email</a>
-<a class="btn btn-primary" href="https://twitter.com/lnolson" role="button">Twitter</a>
+<a class="btn btn-primary" rel="me" href="https://mastodon.social/@lnolson">Mastodon</a>
 <a class="btn btn-primary" href="https://github.com/lnolson" role="button">Github</a>
+<!--<a class="btn btn-primary" href="https://twitter.com/lnolson" role="button">Twitter</a>-->
 
 
 <div style="margin-top: 64px;" class="lead-section-last" markdown="1">

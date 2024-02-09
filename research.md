@@ -30,18 +30,7 @@ Young adults are immersed in digital culture, but most are not familiar with the
 </a>
 </div>
 
-<div class="lead-section" markdown="1">
-### Eval
 
-Eval is a web application used to track collaboration in research and education at AME. [http://eval.ame.asu.edu](http://eval.ame.asu.edu)
-</div>
-
-<div class="lead-section lead-section-last" markdown="1">
-### Learning Environments
-
-Learning Environments is a research group focusing on new approaches to education that harness emerging technologies, enable collaborative learning, and prepare students for an increasingly dynamic world. The group has created several projects exploring physical and online learning systems.
-
-</div>
 
 <div class="lead lead-section" markdown="1">
 <hr>
@@ -53,6 +42,12 @@ Past work
 
 The Digital Culture program launched using an innovative proficiency system to allow students to customize their curriculum. The Course Planner was a web application that allowed students to experiment with different sequences of courses, and understand the proficiency outcomes.
 
+</div>
+
+<div class="lead-section" markdown="1">
+### Eval
+
+Eval is a web application used to track collaboration in research and education at AME. [http://eval.ame.asu.edu](http://eval.ame.asu.edu)
 </div>
 
 <div class="lead-section" markdown="1">
